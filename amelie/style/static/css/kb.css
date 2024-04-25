@@ -1,3 +1,7 @@
+#bottom {
+	position: relative!important;
+}
+
 .current h2, .ia h2, .edu h2, #top, #bottom {
 	background:pink!important;
 }
